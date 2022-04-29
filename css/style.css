@@ -1,0 +1,110 @@
+h1 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    text-decoration: underline;
+    font-size: 3em;
+    float: left;
+    margin-left: 10px;
+}
+
+
+/* General styles */
+
+.backgroundStyle {
+    background-color: #ddd;
+}
+
+input {
+    background-color: #ddd;
+}
+
+button {
+    background-color: #ddd;
+}
+
+select {
+    background-color: #ddd;
+}
+
+
+/* Index page */
+
+#settingsButton {
+    float: right;
+}
+
+.tableStyle {
+    text-align: center;
+    font-size: 2em;
+}
+
+.floatclr {
+    clear: both;
+}
+
+#notifications {
+    margin: 0;
+    width: 40%;
+    margin-left: 10px;
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    margin-top: -20px !important;
+    padding-left: 20px;
+}
+
+#flip {
+    margin-left: 10px;
+    border: solid darkgray 1px;
+    width: 40%;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
+
+#shoppingButton {
+    margin-left: 10px;
+}
+
+
+/* Settings page */
+
+#wrap {
+    margin: 20px;
+}
+
+.tableTitle {
+    font-size: 1.5em;
+    text-decoration: underline;
+}
+
+img[alt="Settings"] {
+    float: right;
+}
+
+#expirySettings {
+    margin-left: 10px;
+    border-bottom: solid darkgray 1px;
+    font-family: "Roboto", sans-serif;
+}
+
+#expirySettingsSlide {
+    font-family: "Roboto", sans-serif;
+    margin-top: 1em;
+    margin-left: 20px;
+}
+
+#tableDiv {
+    width: 60%;
+}
+
+#preferredSettings {
+    margin-top: 30px;
+    margin-left: 10px;
+    border-bottom: solid darkgray 1px;
+    font-family: "Roboto", sans-serif;
+}
+
+#preferredSettingsSlide {
+    font-family: "Roboto", sans-serif;
+    margin-top: 1em;
+    margin-left: 20px;
+}
